@@ -1,5 +1,5 @@
 # Specify Python version
-python==3.11
+python==3.9
 
 # Pin library versions for stability
 streamlit==1.35.0
